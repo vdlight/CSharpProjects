@@ -1,0 +1,6 @@
+C:\git\CSharpProjects\WordGuesser\bin\Debug\WordGuesser.exe.config
+C:\git\CSharpProjects\WordGuesser\bin\Debug\WordGuesser.exe
+C:\git\CSharpProjects\WordGuesser\bin\Debug\WordGuesser.pdb
+C:\git\CSharpProjects\WordGuesser\obj\Debug\WordGuesser.csprojAssemblyReference.cache
+C:\git\CSharpProjects\WordGuesser\obj\Debug\WordGuesser.exe
+C:\git\CSharpProjects\WordGuesser\obj\Debug\WordGuesser.pdb

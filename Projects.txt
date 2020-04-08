@@ -1,10 +1,15 @@
 WordGuesser
-
+Console baserad
 be användare skriva in ett ord
 fråga efter bokstäver
 gissa ord 
 
+
 ----------
+WordGuesser, med grafik
+Kanske rita en hängman, och sedan ha sifferknappar för vilka som ska sparas.
+
+----
 
 Något med Json
 
@@ -12,5 +17,29 @@ Något med Json
 
 ----
 excel
+
+---
+webscraping
+hämta information, automatisera
+
+---------
+API med sql databas
+
+----------
+snake spel
+
+---
+pacman 
+
+---
+
+Raspberry pie projekt
+
+------
+pong spel
+
+----------------
+
+
 
 

@@ -1,0 +1,37 @@
+WordGuesser - Console
+
+Main
+    Ska loopa spelet, tills q, h för info
+    printGameScreen
+    
+AskForWordLenght()
+    Frågar användaren, hur många bokstäver är ordet som han tänker på
+
+AskUserToCorrectPositions()
+    Efter gissning så ska användaren på något sätt mata in korrekta svar
+    kan skriva siffror, kommaseparerat, sedan fråga om bekrätelse med att skriva ut bokstäverna. 
+
+GuessCharacter()
+    använd linq
+    gissa random bokstav 
+
+ReadWordList()
+    måste fixa en struktur att spara alla ord från lista
+    konvertera allt till upper case
+  
+FilterWordList()
+    efter en gissning, så kan vi filtera ordlistan, ta bort de ord det inte kan vara
+
+PrintCurrentGameScreen()
+    skriver ut underscore för tomma ord, 
+    skriver ut på en rad lägre, gissad bokstav i stor bokstav.
+    Skriver ut antal gissningar
+    Erbjud q för att avsluta
+    Erbjud h, för help
+    returnera om spelet ska fortsätta
+
+GameEngine
+    kör spelet
+    returner false när det ska avslutas, annars true
+
+HandleUserInput
